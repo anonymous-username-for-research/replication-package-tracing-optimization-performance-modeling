@@ -1,0 +1,2333 @@
+[
+    {
+        "support": 17,
+        "max_items": 9750,
+        "min_items": 502,
+        "num_items": 35,
+        "num_transactions": 600000
+    },
+    {
+        "support": 167,
+        "max_items": 6250,
+        "min_items": 138,
+        "num_items": 40,
+        "num_transactions": 500000
+    },
+    {
+        "support": 2,
+        "max_items": 8250,
+        "min_items": 922,
+        "num_items": 35,
+        "num_transactions": 250000
+    },
+    {
+        "support": 77,
+        "max_items": 8250,
+        "min_items": 706,
+        "num_items": 55,
+        "num_transactions": 1600000
+    },
+    {
+        "support": 32,
+        "max_items": 9250,
+        "min_items": 58,
+        "num_items": 55,
+        "num_transactions": 450000
+    },
+    {
+        "support": 2,
+        "max_items": 8000,
+        "min_items": 426,
+        "num_items": 55,
+        "num_transactions": 600000
+    },
+    {
+        "support": 197,
+        "max_items": 7250,
+        "min_items": 130,
+        "num_items": 55,
+        "num_transactions": 550000
+    },
+    {
+        "support": 77,
+        "max_items": 7500,
+        "min_items": 842,
+        "num_items": 30,
+        "num_transactions": 550000
+    },
+    {
+        "support": 182,
+        "max_items": 7000,
+        "min_items": 74,
+        "num_items": 30,
+        "num_transactions": 900000
+    },
+    {
+        "support": 167,
+        "max_items": 6500,
+        "min_items": 34,
+        "num_items": 55,
+        "num_transactions": 1300000
+    },
+    {
+        "support": 107,
+        "max_items": 9500,
+        "min_items": 658,
+        "num_items": 45,
+        "num_transactions": 1350000
+    },
+    {
+        "support": 77,
+        "max_items": 9750,
+        "min_items": 746,
+        "num_items": 30,
+        "num_transactions": 850000
+    },
+    {
+        "support": 77,
+        "max_items": 7250,
+        "min_items": 402,
+        "num_items": 30,
+        "num_transactions": 800000
+    },
+    {
+        "support": 122,
+        "max_items": 8250,
+        "min_items": 882,
+        "num_items": 45,
+        "num_transactions": 750000
+    },
+    {
+        "support": 152,
+        "max_items": 6750,
+        "min_items": 354,
+        "num_items": 55,
+        "num_transactions": 550000
+    },
+    {
+        "support": 197,
+        "max_items": 9750,
+        "min_items": 966,
+        "num_items": 45,
+        "num_transactions": 500000
+    },
+    {
+        "support": 2,
+        "max_items": 8500,
+        "min_items": 486,
+        "num_items": 50,
+        "num_transactions": 1500000
+    },
+    {
+        "support": 92,
+        "max_items": 8000,
+        "min_items": 482,
+        "num_items": 55,
+        "num_transactions": 1600000
+    },
+    {
+        "support": 32,
+        "max_items": 6250,
+        "min_items": 594,
+        "num_items": 45,
+        "num_transactions": 1500000
+    },
+    {
+        "support": 47,
+        "max_items": 9750,
+        "min_items": 178,
+        "num_items": 45,
+        "num_transactions": 750000
+    },
+    {
+        "support": 77,
+        "max_items": 7500,
+        "min_items": 82,
+        "num_items": 35,
+        "num_transactions": 500000
+    },
+    {
+        "support": 122,
+        "max_items": 6500,
+        "min_items": 482,
+        "num_items": 65,
+        "num_transactions": 1850000
+    },
+    {
+        "support": 167,
+        "max_items": 8500,
+        "min_items": 134,
+        "num_items": 35,
+        "num_transactions": 350000
+    },
+    {
+        "support": 122,
+        "max_items": 7250,
+        "min_items": 654,
+        "num_items": 35,
+        "num_transactions": 500000
+    },
+    {
+        "support": 2,
+        "max_items": 6750,
+        "min_items": 518,
+        "num_items": 35,
+        "num_transactions": 250000
+    },
+    {
+        "support": 92,
+        "max_items": 9000,
+        "min_items": 786,
+        "num_items": 35,
+        "num_transactions": 750000
+    },
+    {
+        "support": 92,
+        "max_items": 8250,
+        "min_items": 698,
+        "num_items": 40,
+        "num_transactions": 950000
+    },
+    {
+        "support": 47,
+        "max_items": 8750,
+        "min_items": 954,
+        "num_items": 30,
+        "num_transactions": 500000
+    },
+    {
+        "support": 32,
+        "max_items": 6000,
+        "min_items": 450,
+        "num_items": 60,
+        "num_transactions": 1200000
+    },
+    {
+        "support": 197,
+        "max_items": 6000,
+        "min_items": 806,
+        "num_items": 55,
+        "num_transactions": 1750000
+    },
+    {
+        "support": 182,
+        "max_items": 9750,
+        "min_items": 478,
+        "num_items": 60,
+        "num_transactions": 1650000
+    },
+    {
+        "support": 107,
+        "max_items": 9500,
+        "min_items": 974,
+        "num_items": 50,
+        "num_transactions": 1350000
+    },
+    {
+        "support": 107,
+        "max_items": 6250,
+        "min_items": 18,
+        "num_items": 40,
+        "num_transactions": 650000
+    },
+    {
+        "support": 47,
+        "max_items": 9750,
+        "min_items": 390,
+        "num_items": 45,
+        "num_transactions": 650000
+    },
+    {
+        "support": 152,
+        "max_items": 7500,
+        "min_items": 650,
+        "num_items": 30,
+        "num_transactions": 600000
+    },
+    {
+        "support": 167,
+        "max_items": 6750,
+        "min_items": 414,
+        "num_items": 45,
+        "num_transactions": 1950000
+    },
+    {
+        "support": 122,
+        "max_items": 8500,
+        "min_items": 210,
+        "num_items": 40,
+        "num_transactions": 1500000
+    },
+    {
+        "support": 107,
+        "max_items": 7750,
+        "min_items": 330,
+        "num_items": 60,
+        "num_transactions": 1150000
+    },
+    {
+        "support": 77,
+        "max_items": 7750,
+        "min_items": 726,
+        "num_items": 35,
+        "num_transactions": 450000
+    },
+    {
+        "support": 167,
+        "max_items": 6000,
+        "min_items": 250,
+        "num_items": 40,
+        "num_transactions": 900000
+    },
+    {
+        "support": 122,
+        "max_items": 6750,
+        "min_items": 218,
+        "num_items": 45,
+        "num_transactions": 800000
+    },
+    {
+        "support": 122,
+        "max_items": 9750,
+        "min_items": 118,
+        "num_items": 45,
+        "num_transactions": 700000
+    },
+    {
+        "support": 167,
+        "max_items": 6750,
+        "min_items": 962,
+        "num_items": 35,
+        "num_transactions": 250000
+    },
+    {
+        "support": 137,
+        "max_items": 8250,
+        "min_items": 626,
+        "num_items": 60,
+        "num_transactions": 900000
+    },
+    {
+        "support": 182,
+        "max_items": 7500,
+        "min_items": 106,
+        "num_items": 35,
+        "num_transactions": 750000
+    },
+    {
+        "support": 167,
+        "max_items": 7250,
+        "min_items": 854,
+        "num_items": 35,
+        "num_transactions": 900000
+    },
+    {
+        "support": 17,
+        "max_items": 7000,
+        "min_items": 534,
+        "num_items": 40,
+        "num_transactions": 400000
+    },
+    {
+        "support": 122,
+        "max_items": 7250,
+        "min_items": 158,
+        "num_items": 40,
+        "num_transactions": 750000
+    },
+    {
+        "support": 17,
+        "max_items": 9500,
+        "min_items": 650,
+        "num_items": 45,
+        "num_transactions": 450000
+    },
+    {
+        "support": 77,
+        "max_items": 6000,
+        "min_items": 450,
+        "num_items": 40,
+        "num_transactions": 650000
+    },
+    {
+        "support": 122,
+        "max_items": 7250,
+        "min_items": 998,
+        "num_items": 30,
+        "num_transactions": 1000000
+    },
+    {
+        "support": 197,
+        "max_items": 6500,
+        "min_items": 846,
+        "num_items": 45,
+        "num_transactions": 850000
+    },
+    {
+        "support": 47,
+        "max_items": 8750,
+        "min_items": 110,
+        "num_items": 40,
+        "num_transactions": 500000
+    },
+    {
+        "support": 17,
+        "max_items": 9250,
+        "min_items": 362,
+        "num_items": 35,
+        "num_transactions": 1000000
+    },
+    {
+        "support": 182,
+        "max_items": 9250,
+        "min_items": 478,
+        "num_items": 40,
+        "num_transactions": 200000
+    },
+    {
+        "support": 2,
+        "max_items": 9500,
+        "min_items": 542,
+        "num_items": 30,
+        "num_transactions": 700000
+    },
+    {
+        "support": 62,
+        "max_items": 9000,
+        "min_items": 178,
+        "num_items": 45,
+        "num_transactions": 450000
+    },
+    {
+        "support": 167,
+        "max_items": 9500,
+        "min_items": 322,
+        "num_items": 35,
+        "num_transactions": 450000
+    },
+    {
+        "support": 62,
+        "max_items": 8000,
+        "min_items": 210,
+        "num_items": 45,
+        "num_transactions": 1950000
+    },
+    {
+        "support": 107,
+        "max_items": 7500,
+        "min_items": 294,
+        "num_items": 30,
+        "num_transactions": 800000
+    },
+    {
+        "support": 107,
+        "max_items": 7750,
+        "min_items": 470,
+        "num_items": 60,
+        "num_transactions": 1150000
+    },
+    {
+        "support": 197,
+        "max_items": 9000,
+        "min_items": 238,
+        "num_items": 65,
+        "num_transactions": 550000
+    },
+    {
+        "support": 197,
+        "max_items": 6500,
+        "min_items": 954,
+        "num_items": 45,
+        "num_transactions": 1300000
+    },
+    {
+        "support": 62,
+        "max_items": 8750,
+        "min_items": 706,
+        "num_items": 50,
+        "num_transactions": 1300000
+    },
+    {
+        "support": 2,
+        "max_items": 6500,
+        "min_items": 326,
+        "num_items": 55,
+        "num_transactions": 1450000
+    },
+    {
+        "support": 152,
+        "max_items": 9750,
+        "min_items": 650,
+        "num_items": 55,
+        "num_transactions": 400000
+    },
+    {
+        "support": 122,
+        "max_items": 6500,
+        "min_items": 218,
+        "num_items": 65,
+        "num_transactions": 2000000
+    },
+    {
+        "support": 137,
+        "max_items": 8250,
+        "min_items": 894,
+        "num_items": 65,
+        "num_transactions": 1850000
+    },
+    {
+        "support": 107,
+        "max_items": 7000,
+        "min_items": 234,
+        "num_items": 30,
+        "num_transactions": 500000
+    },
+    {
+        "support": 32,
+        "max_items": 7000,
+        "min_items": 454,
+        "num_items": 30,
+        "num_transactions": 500000
+    },
+    {
+        "support": 62,
+        "max_items": 8250,
+        "min_items": 718,
+        "num_items": 40,
+        "num_transactions": 600000
+    },
+    {
+        "support": 47,
+        "max_items": 6250,
+        "min_items": 694,
+        "num_items": 30,
+        "num_transactions": 600000
+    },
+    {
+        "support": 137,
+        "max_items": 7500,
+        "min_items": 282,
+        "num_items": 55,
+        "num_transactions": 1950000
+    },
+    {
+        "support": 182,
+        "max_items": 8000,
+        "min_items": 50,
+        "num_items": 50,
+        "num_transactions": 1600000
+    },
+    {
+        "support": 122,
+        "max_items": 8000,
+        "min_items": 194,
+        "num_items": 40,
+        "num_transactions": 850000
+    },
+    {
+        "support": 17,
+        "max_items": 7000,
+        "min_items": 198,
+        "num_items": 55,
+        "num_transactions": 1500000
+    },
+    {
+        "support": 2,
+        "max_items": 8500,
+        "min_items": 694,
+        "num_items": 55,
+        "num_transactions": 2000000
+    },
+    {
+        "support": 62,
+        "max_items": 9500,
+        "min_items": 394,
+        "num_items": 45,
+        "num_transactions": 200000
+    },
+    {
+        "support": 92,
+        "max_items": 8000,
+        "min_items": 830,
+        "num_items": 45,
+        "num_transactions": 1000000
+    },
+    {
+        "support": 17,
+        "max_items": 8750,
+        "min_items": 86,
+        "num_items": 40,
+        "num_transactions": 350000
+    },
+    {
+        "support": 32,
+        "max_items": 6750,
+        "min_items": 922,
+        "num_items": 40,
+        "num_transactions": 700000
+    },
+    {
+        "support": 32,
+        "max_items": 6750,
+        "min_items": 398,
+        "num_items": 30,
+        "num_transactions": 450000
+    },
+    {
+        "support": 107,
+        "max_items": 9000,
+        "min_items": 798,
+        "num_items": 35,
+        "num_transactions": 750000
+    },
+    {
+        "support": 182,
+        "max_items": 6500,
+        "min_items": 26,
+        "num_items": 40,
+        "num_transactions": 950000
+    },
+    {
+        "support": 47,
+        "max_items": 7000,
+        "min_items": 306,
+        "num_items": 45,
+        "num_transactions": 650000
+    },
+    {
+        "support": 122,
+        "max_items": 7500,
+        "min_items": 234,
+        "num_items": 30,
+        "num_transactions": 200000
+    },
+    {
+        "support": 77,
+        "max_items": 7250,
+        "min_items": 842,
+        "num_items": 45,
+        "num_transactions": 1150000
+    },
+    {
+        "support": 47,
+        "max_items": 8750,
+        "min_items": 574,
+        "num_items": 65,
+        "num_transactions": 550000
+    },
+    {
+        "support": 62,
+        "max_items": 7500,
+        "min_items": 814,
+        "num_items": 40,
+        "num_transactions": 550000
+    },
+    {
+        "support": 47,
+        "max_items": 7750,
+        "min_items": 874,
+        "num_items": 30,
+        "num_transactions": 850000
+    },
+    {
+        "support": 32,
+        "max_items": 7500,
+        "min_items": 370,
+        "num_items": 45,
+        "num_transactions": 350000
+    },
+    {
+        "support": 17,
+        "max_items": 7250,
+        "min_items": 58,
+        "num_items": 30,
+        "num_transactions": 450000
+    },
+    {
+        "support": 152,
+        "max_items": 6250,
+        "min_items": 302,
+        "num_items": 30,
+        "num_transactions": 550000
+    },
+    {
+        "support": 2,
+        "max_items": 7250,
+        "min_items": 126,
+        "num_items": 40,
+        "num_transactions": 750000
+    },
+    {
+        "support": 2,
+        "max_items": 7500,
+        "min_items": 162,
+        "num_items": 30,
+        "num_transactions": 750000
+    },
+    {
+        "support": 62,
+        "max_items": 9250,
+        "min_items": 830,
+        "num_items": 55,
+        "num_transactions": 550000
+    },
+    {
+        "support": 122,
+        "max_items": 7750,
+        "min_items": 46,
+        "num_items": 55,
+        "num_transactions": 450000
+    },
+    {
+        "support": 182,
+        "max_items": 7750,
+        "min_items": 782,
+        "num_items": 60,
+        "num_transactions": 1950000
+    },
+    {
+        "support": 32,
+        "max_items": 9500,
+        "min_items": 638,
+        "num_items": 30,
+        "num_transactions": 200000
+    },
+    {
+        "support": 107,
+        "max_items": 6250,
+        "min_items": 34,
+        "num_items": 35,
+        "num_transactions": 450000
+    },
+    {
+        "support": 197,
+        "max_items": 6500,
+        "min_items": 306,
+        "num_items": 45,
+        "num_transactions": 550000
+    },
+    {
+        "support": 182,
+        "max_items": 9750,
+        "min_items": 854,
+        "num_items": 50,
+        "num_transactions": 1150000
+    },
+    {
+        "support": 137,
+        "max_items": 9750,
+        "min_items": 898,
+        "num_items": 60,
+        "num_transactions": 1100000
+    },
+    {
+        "support": 17,
+        "max_items": 7250,
+        "min_items": 466,
+        "num_items": 45,
+        "num_transactions": 700000
+    },
+    {
+        "support": 2,
+        "max_items": 6750,
+        "min_items": 30,
+        "num_items": 40,
+        "num_transactions": 400000
+    },
+    {
+        "support": 92,
+        "max_items": 7250,
+        "min_items": 330,
+        "num_items": 45,
+        "num_transactions": 850000
+    },
+    {
+        "support": 47,
+        "max_items": 7750,
+        "min_items": 718,
+        "num_items": 35,
+        "num_transactions": 250000
+    },
+    {
+        "support": 2,
+        "max_items": 9500,
+        "min_items": 450,
+        "num_items": 40,
+        "num_transactions": 300000
+    },
+    {
+        "support": 32,
+        "max_items": 6750,
+        "min_items": 370,
+        "num_items": 45,
+        "num_transactions": 600000
+    },
+    {
+        "support": 152,
+        "max_items": 8750,
+        "min_items": 474,
+        "num_items": 40,
+        "num_transactions": 800000
+    },
+    {
+        "support": 92,
+        "max_items": 7000,
+        "min_items": 358,
+        "num_items": 55,
+        "num_transactions": 400000
+    },
+    {
+        "support": 17,
+        "max_items": 8500,
+        "min_items": 970,
+        "num_items": 60,
+        "num_transactions": 1600000
+    },
+    {
+        "support": 77,
+        "max_items": 6500,
+        "min_items": 206,
+        "num_items": 30,
+        "num_transactions": 400000
+    },
+    {
+        "support": 197,
+        "max_items": 6750,
+        "min_items": 378,
+        "num_items": 40,
+        "num_transactions": 400000
+    },
+    {
+        "support": 17,
+        "max_items": 9500,
+        "min_items": 642,
+        "num_items": 40,
+        "num_transactions": 1000000
+    },
+    {
+        "support": 137,
+        "max_items": 6750,
+        "min_items": 926,
+        "num_items": 50,
+        "num_transactions": 1400000
+    },
+    {
+        "support": 32,
+        "max_items": 7000,
+        "min_items": 106,
+        "num_items": 30,
+        "num_transactions": 850000
+    },
+    {
+        "support": 137,
+        "max_items": 9000,
+        "min_items": 86,
+        "num_items": 65,
+        "num_transactions": 600000
+    },
+    {
+        "support": 77,
+        "max_items": 6000,
+        "min_items": 494,
+        "num_items": 40,
+        "num_transactions": 850000
+    },
+    {
+        "support": 92,
+        "max_items": 9000,
+        "min_items": 386,
+        "num_items": 30,
+        "num_transactions": 900000
+    },
+    {
+        "support": 197,
+        "max_items": 6750,
+        "min_items": 506,
+        "num_items": 45,
+        "num_transactions": 200000
+    },
+    {
+        "support": 2,
+        "max_items": 8000,
+        "min_items": 958,
+        "num_items": 45,
+        "num_transactions": 750000
+    },
+    {
+        "support": 47,
+        "max_items": 9500,
+        "min_items": 982,
+        "num_items": 45,
+        "num_transactions": 1850000
+    },
+    {
+        "support": 77,
+        "max_items": 6250,
+        "min_items": 358,
+        "num_items": 55,
+        "num_transactions": 700000
+    },
+    {
+        "support": 152,
+        "max_items": 7250,
+        "min_items": 334,
+        "num_items": 40,
+        "num_transactions": 1950000
+    },
+    {
+        "support": 17,
+        "max_items": 6500,
+        "min_items": 818,
+        "num_items": 45,
+        "num_transactions": 750000
+    },
+    {
+        "support": 47,
+        "max_items": 8000,
+        "min_items": 390,
+        "num_items": 65,
+        "num_transactions": 450000
+    },
+    {
+        "support": 182,
+        "max_items": 7500,
+        "min_items": 206,
+        "num_items": 30,
+        "num_transactions": 800000
+    },
+    {
+        "support": 152,
+        "max_items": 6750,
+        "min_items": 862,
+        "num_items": 65,
+        "num_transactions": 1000000
+    },
+    {
+        "support": 47,
+        "max_items": 6250,
+        "min_items": 178,
+        "num_items": 50,
+        "num_transactions": 600000
+    },
+    {
+        "support": 137,
+        "max_items": 6250,
+        "min_items": 238,
+        "num_items": 40,
+        "num_transactions": 500000
+    },
+    {
+        "support": 197,
+        "max_items": 9500,
+        "min_items": 462,
+        "num_items": 50,
+        "num_transactions": 1550000
+    },
+    {
+        "support": 137,
+        "max_items": 6500,
+        "min_items": 298,
+        "num_items": 55,
+        "num_transactions": 850000
+    },
+    {
+        "support": 77,
+        "max_items": 6750,
+        "min_items": 38,
+        "num_items": 40,
+        "num_transactions": 400000
+    },
+    {
+        "support": 2,
+        "max_items": 8250,
+        "min_items": 22,
+        "num_items": 45,
+        "num_transactions": 2000000
+    },
+    {
+        "support": 167,
+        "max_items": 7750,
+        "min_items": 722,
+        "num_items": 40,
+        "num_transactions": 250000
+    },
+    {
+        "support": 152,
+        "max_items": 8000,
+        "min_items": 902,
+        "num_items": 40,
+        "num_transactions": 200000
+    },
+    {
+        "support": 107,
+        "max_items": 6250,
+        "min_items": 442,
+        "num_items": 30,
+        "num_transactions": 750000
+    },
+    {
+        "support": 167,
+        "max_items": 6250,
+        "min_items": 198,
+        "num_items": 30,
+        "num_transactions": 600000
+    },
+    {
+        "support": 122,
+        "max_items": 6750,
+        "min_items": 482,
+        "num_items": 40,
+        "num_transactions": 500000
+    },
+    {
+        "support": 107,
+        "max_items": 7750,
+        "min_items": 178,
+        "num_items": 45,
+        "num_transactions": 900000
+    },
+    {
+        "support": 122,
+        "max_items": 6750,
+        "min_items": 78,
+        "num_items": 65,
+        "num_transactions": 450000
+    },
+    {
+        "support": 167,
+        "max_items": 7250,
+        "min_items": 554,
+        "num_items": 30,
+        "num_transactions": 600000
+    },
+    {
+        "support": 107,
+        "max_items": 6500,
+        "min_items": 150,
+        "num_items": 35,
+        "num_transactions": 600000
+    },
+    {
+        "support": 107,
+        "max_items": 7000,
+        "min_items": 382,
+        "num_items": 55,
+        "num_transactions": 400000
+    },
+    {
+        "support": 32,
+        "max_items": 6000,
+        "min_items": 70,
+        "num_items": 30,
+        "num_transactions": 950000
+    },
+    {
+        "support": 137,
+        "max_items": 8000,
+        "min_items": 346,
+        "num_items": 60,
+        "num_transactions": 450000
+    },
+    {
+        "support": 122,
+        "max_items": 8500,
+        "min_items": 954,
+        "num_items": 40,
+        "num_transactions": 1900000
+    },
+    {
+        "support": 32,
+        "max_items": 9750,
+        "min_items": 22,
+        "num_items": 65,
+        "num_transactions": 1750000
+    },
+    {
+        "support": 167,
+        "max_items": 9500,
+        "min_items": 102,
+        "num_items": 40,
+        "num_transactions": 1250000
+    },
+    {
+        "support": 47,
+        "max_items": 9750,
+        "min_items": 878,
+        "num_items": 55,
+        "num_transactions": 950000
+    },
+    {
+        "support": 182,
+        "max_items": 9750,
+        "min_items": 314,
+        "num_items": 60,
+        "num_transactions": 500000
+    },
+    {
+        "support": 182,
+        "max_items": 7250,
+        "min_items": 322,
+        "num_items": 50,
+        "num_transactions": 800000
+    },
+    {
+        "support": 17,
+        "max_items": 8250,
+        "min_items": 430,
+        "num_items": 40,
+        "num_transactions": 1850000
+    },
+    {
+        "support": 167,
+        "max_items": 6250,
+        "min_items": 58,
+        "num_items": 35,
+        "num_transactions": 550000
+    },
+    {
+        "support": 122,
+        "max_items": 8750,
+        "min_items": 478,
+        "num_items": 45,
+        "num_transactions": 600000
+    },
+    {
+        "support": 182,
+        "max_items": 7250,
+        "min_items": 762,
+        "num_items": 45,
+        "num_transactions": 400000
+    },
+    {
+        "support": 182,
+        "max_items": 7500,
+        "min_items": 670,
+        "num_items": 65,
+        "num_transactions": 1500000
+    },
+    {
+        "support": 197,
+        "max_items": 6500,
+        "min_items": 326,
+        "num_items": 30,
+        "num_transactions": 950000
+    },
+    {
+        "support": 122,
+        "max_items": 7250,
+        "min_items": 914,
+        "num_items": 40,
+        "num_transactions": 750000
+    },
+    {
+        "support": 197,
+        "max_items": 6250,
+        "min_items": 294,
+        "num_items": 45,
+        "num_transactions": 950000
+    },
+    {
+        "support": 167,
+        "max_items": 7250,
+        "min_items": 366,
+        "num_items": 30,
+        "num_transactions": 800000
+    },
+    {
+        "support": 92,
+        "max_items": 6250,
+        "min_items": 662,
+        "num_items": 45,
+        "num_transactions": 500000
+    },
+    {
+        "support": 122,
+        "max_items": 9500,
+        "min_items": 858,
+        "num_items": 30,
+        "num_transactions": 300000
+    },
+    {
+        "support": 137,
+        "max_items": 6500,
+        "min_items": 574,
+        "num_items": 55,
+        "num_transactions": 600000
+    },
+    {
+        "support": 92,
+        "max_items": 6500,
+        "min_items": 386,
+        "num_items": 55,
+        "num_transactions": 450000
+    },
+    {
+        "support": 47,
+        "max_items": 7000,
+        "min_items": 826,
+        "num_items": 45,
+        "num_transactions": 950000
+    },
+    {
+        "support": 167,
+        "max_items": 7750,
+        "min_items": 38,
+        "num_items": 30,
+        "num_transactions": 250000
+    },
+    {
+        "support": 182,
+        "max_items": 6250,
+        "min_items": 386,
+        "num_items": 30,
+        "num_transactions": 750000
+    },
+    {
+        "support": 62,
+        "max_items": 7000,
+        "min_items": 754,
+        "num_items": 45,
+        "num_transactions": 1350000
+    },
+    {
+        "support": 47,
+        "max_items": 8750,
+        "min_items": 618,
+        "num_items": 50,
+        "num_transactions": 850000
+    },
+    {
+        "support": 77,
+        "max_items": 6500,
+        "min_items": 358,
+        "num_items": 45,
+        "num_transactions": 1050000
+    },
+    {
+        "support": 167,
+        "max_items": 9000,
+        "min_items": 130,
+        "num_items": 30,
+        "num_transactions": 550000
+    },
+    {
+        "support": 107,
+        "max_items": 7500,
+        "min_items": 534,
+        "num_items": 45,
+        "num_transactions": 1600000
+    },
+    {
+        "support": 92,
+        "max_items": 7250,
+        "min_items": 190,
+        "num_items": 45,
+        "num_transactions": 1150000
+    },
+    {
+        "support": 77,
+        "max_items": 9750,
+        "min_items": 382,
+        "num_items": 40,
+        "num_transactions": 1300000
+    },
+    {
+        "support": 77,
+        "max_items": 7000,
+        "min_items": 402,
+        "num_items": 40,
+        "num_transactions": 750000
+    },
+    {
+        "support": 107,
+        "max_items": 6750,
+        "min_items": 54,
+        "num_items": 60,
+        "num_transactions": 750000
+    },
+    {
+        "support": 17,
+        "max_items": 7000,
+        "min_items": 2,
+        "num_items": 40,
+        "num_transactions": 700000
+    },
+    {
+        "support": 17,
+        "max_items": 9750,
+        "min_items": 762,
+        "num_items": 45,
+        "num_transactions": 1150000
+    },
+    {
+        "support": 17,
+        "max_items": 6500,
+        "min_items": 350,
+        "num_items": 50,
+        "num_transactions": 400000
+    },
+    {
+        "support": 2,
+        "max_items": 6250,
+        "min_items": 122,
+        "num_items": 30,
+        "num_transactions": 950000
+    },
+    {
+        "support": 137,
+        "max_items": 6250,
+        "min_items": 458,
+        "num_items": 45,
+        "num_transactions": 850000
+    },
+    {
+        "support": 32,
+        "max_items": 8500,
+        "min_items": 502,
+        "num_items": 45,
+        "num_transactions": 750000
+    },
+    {
+        "support": 2,
+        "max_items": 6500,
+        "min_items": 558,
+        "num_items": 30,
+        "num_transactions": 900000
+    },
+    {
+        "support": 62,
+        "max_items": 6000,
+        "min_items": 414,
+        "num_items": 45,
+        "num_transactions": 900000
+    },
+    {
+        "support": 62,
+        "max_items": 6250,
+        "min_items": 986,
+        "num_items": 45,
+        "num_transactions": 850000
+    },
+    {
+        "support": 92,
+        "max_items": 7500,
+        "min_items": 834,
+        "num_items": 60,
+        "num_transactions": 1600000
+    },
+    {
+        "support": 77,
+        "max_items": 9250,
+        "min_items": 6,
+        "num_items": 60,
+        "num_transactions": 400000
+    },
+    {
+        "support": 17,
+        "max_items": 6500,
+        "min_items": 658,
+        "num_items": 40,
+        "num_transactions": 650000
+    },
+    {
+        "support": 122,
+        "max_items": 6250,
+        "min_items": 602,
+        "num_items": 45,
+        "num_transactions": 1700000
+    },
+    {
+        "support": 152,
+        "max_items": 8750,
+        "min_items": 502,
+        "num_items": 40,
+        "num_transactions": 1300000
+    },
+    {
+        "support": 137,
+        "max_items": 9500,
+        "min_items": 138,
+        "num_items": 45,
+        "num_transactions": 800000
+    },
+    {
+        "support": 167,
+        "max_items": 6250,
+        "min_items": 110,
+        "num_items": 45,
+        "num_transactions": 700000
+    },
+    {
+        "support": 152,
+        "max_items": 8250,
+        "min_items": 938,
+        "num_items": 35,
+        "num_transactions": 750000
+    },
+    {
+        "support": 62,
+        "max_items": 6250,
+        "min_items": 286,
+        "num_items": 45,
+        "num_transactions": 1600000
+    },
+    {
+        "support": 197,
+        "max_items": 9000,
+        "min_items": 742,
+        "num_items": 55,
+        "num_transactions": 2000000
+    },
+    {
+        "support": 137,
+        "max_items": 7000,
+        "min_items": 398,
+        "num_items": 40,
+        "num_transactions": 550000
+    },
+    {
+        "support": 197,
+        "max_items": 9000,
+        "min_items": 442,
+        "num_items": 60,
+        "num_transactions": 650000
+    },
+    {
+        "support": 107,
+        "max_items": 6250,
+        "min_items": 962,
+        "num_items": 40,
+        "num_transactions": 350000
+    },
+    {
+        "support": 137,
+        "max_items": 7500,
+        "min_items": 854,
+        "num_items": 50,
+        "num_transactions": 1400000
+    },
+    {
+        "support": 92,
+        "max_items": 9500,
+        "min_items": 754,
+        "num_items": 60,
+        "num_transactions": 700000
+    },
+    {
+        "support": 62,
+        "max_items": 9750,
+        "min_items": 974,
+        "num_items": 40,
+        "num_transactions": 1500000
+    },
+    {
+        "support": 122,
+        "max_items": 6750,
+        "min_items": 218,
+        "num_items": 45,
+        "num_transactions": 500000
+    },
+    {
+        "support": 62,
+        "max_items": 7000,
+        "min_items": 690,
+        "num_items": 40,
+        "num_transactions": 600000
+    },
+    {
+        "support": 182,
+        "max_items": 6750,
+        "min_items": 570,
+        "num_items": 30,
+        "num_transactions": 400000
+    },
+    {
+        "support": 197,
+        "max_items": 6250,
+        "min_items": 994,
+        "num_items": 35,
+        "num_transactions": 850000
+    },
+    {
+        "support": 32,
+        "max_items": 9000,
+        "min_items": 418,
+        "num_items": 35,
+        "num_transactions": 750000
+    },
+    {
+        "support": 182,
+        "max_items": 7500,
+        "min_items": 566,
+        "num_items": 40,
+        "num_transactions": 1100000
+    },
+    {
+        "support": 152,
+        "max_items": 8500,
+        "min_items": 958,
+        "num_items": 65,
+        "num_transactions": 1750000
+    },
+    {
+        "support": 122,
+        "max_items": 8500,
+        "min_items": 654,
+        "num_items": 50,
+        "num_transactions": 1100000
+    },
+    {
+        "support": 32,
+        "max_items": 8750,
+        "min_items": 586,
+        "num_items": 40,
+        "num_transactions": 800000
+    },
+    {
+        "support": 137,
+        "max_items": 6500,
+        "min_items": 334,
+        "num_items": 55,
+        "num_transactions": 550000
+    },
+    {
+        "support": 137,
+        "max_items": 9250,
+        "min_items": 718,
+        "num_items": 60,
+        "num_transactions": 900000
+    },
+    {
+        "support": 137,
+        "max_items": 6750,
+        "min_items": 346,
+        "num_items": 40,
+        "num_transactions": 600000
+    },
+    {
+        "support": 167,
+        "max_items": 8750,
+        "min_items": 546,
+        "num_items": 40,
+        "num_transactions": 1900000
+    },
+    {
+        "support": 32,
+        "max_items": 7500,
+        "min_items": 658,
+        "num_items": 50,
+        "num_transactions": 1950000
+    },
+    {
+        "support": 167,
+        "max_items": 6500,
+        "min_items": 538,
+        "num_items": 40,
+        "num_transactions": 300000
+    },
+    {
+        "support": 122,
+        "max_items": 6250,
+        "min_items": 442,
+        "num_items": 35,
+        "num_transactions": 550000
+    },
+    {
+        "support": 47,
+        "max_items": 6500,
+        "min_items": 746,
+        "num_items": 45,
+        "num_transactions": 300000
+    },
+    {
+        "support": 182,
+        "max_items": 7000,
+        "min_items": 406,
+        "num_items": 50,
+        "num_transactions": 1850000
+    },
+    {
+        "support": 137,
+        "max_items": 7000,
+        "min_items": 566,
+        "num_items": 45,
+        "num_transactions": 200000
+    },
+    {
+        "support": 17,
+        "max_items": 6500,
+        "min_items": 194,
+        "num_items": 40,
+        "num_transactions": 1000000
+    },
+    {
+        "support": 2,
+        "max_items": 8500,
+        "min_items": 122,
+        "num_items": 60,
+        "num_transactions": 550000
+    },
+    {
+        "support": 17,
+        "max_items": 7250,
+        "min_items": 194,
+        "num_items": 50,
+        "num_transactions": 450000
+    },
+    {
+        "support": 62,
+        "max_items": 6500,
+        "min_items": 794,
+        "num_items": 40,
+        "num_transactions": 500000
+    },
+    {
+        "support": 77,
+        "max_items": 7000,
+        "min_items": 2,
+        "num_items": 35,
+        "num_transactions": 450000
+    },
+    {
+        "support": 2,
+        "max_items": 7250,
+        "min_items": 66,
+        "num_items": 35,
+        "num_transactions": 700000
+    },
+    {
+        "support": 137,
+        "max_items": 8750,
+        "min_items": 986,
+        "num_items": 35,
+        "num_transactions": 950000
+    },
+    {
+        "support": 62,
+        "max_items": 7250,
+        "min_items": 598,
+        "num_items": 40,
+        "num_transactions": 550000
+    },
+    {
+        "support": 137,
+        "max_items": 6250,
+        "min_items": 114,
+        "num_items": 35,
+        "num_transactions": 600000
+    },
+    {
+        "support": 122,
+        "max_items": 9500,
+        "min_items": 542,
+        "num_items": 45,
+        "num_transactions": 400000
+    },
+    {
+        "support": 122,
+        "max_items": 7000,
+        "min_items": 738,
+        "num_items": 60,
+        "num_transactions": 750000
+    },
+    {
+        "support": 182,
+        "max_items": 9500,
+        "min_items": 386,
+        "num_items": 55,
+        "num_transactions": 1300000
+    },
+    {
+        "support": 17,
+        "max_items": 6750,
+        "min_items": 366,
+        "num_items": 45,
+        "num_transactions": 700000
+    },
+    {
+        "support": 107,
+        "max_items": 6250,
+        "min_items": 190,
+        "num_items": 45,
+        "num_transactions": 750000
+    },
+    {
+        "support": 92,
+        "max_items": 7750,
+        "min_items": 950,
+        "num_items": 40,
+        "num_transactions": 600000
+    },
+    {
+        "support": 122,
+        "max_items": 7000,
+        "min_items": 86,
+        "num_items": 30,
+        "num_transactions": 400000
+    },
+    {
+        "support": 137,
+        "max_items": 6000,
+        "min_items": 254,
+        "num_items": 40,
+        "num_transactions": 1000000
+    },
+    {
+        "support": 182,
+        "max_items": 7000,
+        "min_items": 378,
+        "num_items": 40,
+        "num_transactions": 950000
+    },
+    {
+        "support": 152,
+        "max_items": 7000,
+        "min_items": 174,
+        "num_items": 40,
+        "num_transactions": 1600000
+    },
+    {
+        "support": 107,
+        "max_items": 8500,
+        "min_items": 782,
+        "num_items": 30,
+        "num_transactions": 800000
+    },
+    {
+        "support": 182,
+        "max_items": 8500,
+        "min_items": 250,
+        "num_items": 55,
+        "num_transactions": 1250000
+    },
+    {
+        "support": 32,
+        "max_items": 7000,
+        "min_items": 526,
+        "num_items": 45,
+        "num_transactions": 1750000
+    },
+    {
+        "support": 62,
+        "max_items": 7000,
+        "min_items": 390,
+        "num_items": 40,
+        "num_transactions": 500000
+    },
+    {
+        "support": 92,
+        "max_items": 9000,
+        "min_items": 122,
+        "num_items": 40,
+        "num_transactions": 850000
+    },
+    {
+        "support": 137,
+        "max_items": 7250,
+        "min_items": 382,
+        "num_items": 50,
+        "num_transactions": 450000
+    },
+    {
+        "support": 137,
+        "max_items": 8500,
+        "min_items": 42,
+        "num_items": 55,
+        "num_transactions": 1650000
+    },
+    {
+        "support": 47,
+        "max_items": 8750,
+        "min_items": 950,
+        "num_items": 40,
+        "num_transactions": 400000
+    },
+    {
+        "support": 62,
+        "max_items": 7250,
+        "min_items": 614,
+        "num_items": 60,
+        "num_transactions": 1050000
+    },
+    {
+        "support": 92,
+        "max_items": 6250,
+        "min_items": 542,
+        "num_items": 40,
+        "num_transactions": 550000
+    },
+    {
+        "support": 17,
+        "max_items": 7750,
+        "min_items": 738,
+        "num_items": 35,
+        "num_transactions": 850000
+    },
+    {
+        "support": 62,
+        "max_items": 8750,
+        "min_items": 466,
+        "num_items": 50,
+        "num_transactions": 900000
+    },
+    {
+        "support": 77,
+        "max_items": 9000,
+        "min_items": 214,
+        "num_items": 30,
+        "num_transactions": 600000
+    },
+    {
+        "support": 182,
+        "max_items": 6000,
+        "min_items": 534,
+        "num_items": 50,
+        "num_transactions": 1350000
+    },
+    {
+        "support": 167,
+        "max_items": 9750,
+        "min_items": 714,
+        "num_items": 40,
+        "num_transactions": 1300000
+    },
+    {
+        "support": 92,
+        "max_items": 7000,
+        "min_items": 174,
+        "num_items": 30,
+        "num_transactions": 900000
+    },
+    {
+        "support": 47,
+        "max_items": 7500,
+        "min_items": 294,
+        "num_items": 60,
+        "num_transactions": 1850000
+    },
+    {
+        "support": 182,
+        "max_items": 6500,
+        "min_items": 538,
+        "num_items": 30,
+        "num_transactions": 750000
+    },
+    {
+        "support": 137,
+        "max_items": 7750,
+        "min_items": 222,
+        "num_items": 45,
+        "num_transactions": 1300000
+    },
+    {
+        "support": 2,
+        "max_items": 8750,
+        "min_items": 674,
+        "num_items": 65,
+        "num_transactions": 900000
+    },
+    {
+        "support": 167,
+        "max_items": 7000,
+        "min_items": 598,
+        "num_items": 40,
+        "num_transactions": 700000
+    },
+    {
+        "support": 32,
+        "max_items": 6000,
+        "min_items": 346,
+        "num_items": 45,
+        "num_transactions": 750000
+    },
+    {
+        "support": 77,
+        "max_items": 9250,
+        "min_items": 558,
+        "num_items": 55,
+        "num_transactions": 950000
+    },
+    {
+        "support": 32,
+        "max_items": 6250,
+        "min_items": 150,
+        "num_items": 55,
+        "num_transactions": 450000
+    },
+    {
+        "support": 197,
+        "max_items": 6750,
+        "min_items": 266,
+        "num_items": 40,
+        "num_transactions": 1600000
+    },
+    {
+        "support": 62,
+        "max_items": 6250,
+        "min_items": 946,
+        "num_items": 45,
+        "num_transactions": 1000000
+    },
+    {
+        "support": 182,
+        "max_items": 6750,
+        "min_items": 178,
+        "num_items": 55,
+        "num_transactions": 800000
+    },
+    {
+        "support": 152,
+        "max_items": 9000,
+        "min_items": 810,
+        "num_items": 65,
+        "num_transactions": 1400000
+    },
+    {
+        "support": 47,
+        "max_items": 8500,
+        "min_items": 486,
+        "num_items": 40,
+        "num_transactions": 800000
+    },
+    {
+        "support": 107,
+        "max_items": 6000,
+        "min_items": 170,
+        "num_items": 50,
+        "num_transactions": 700000
+    },
+    {
+        "support": 2,
+        "max_items": 9250,
+        "min_items": 162,
+        "num_items": 40,
+        "num_transactions": 1150000
+    },
+    {
+        "support": 182,
+        "max_items": 9250,
+        "min_items": 222,
+        "num_items": 45,
+        "num_transactions": 400000
+    },
+    {
+        "support": 182,
+        "max_items": 9250,
+        "min_items": 686,
+        "num_items": 55,
+        "num_transactions": 500000
+    },
+    {
+        "support": 197,
+        "max_items": 7250,
+        "min_items": 394,
+        "num_items": 45,
+        "num_transactions": 850000
+    },
+    {
+        "support": 92,
+        "max_items": 8500,
+        "min_items": 270,
+        "num_items": 35,
+        "num_transactions": 200000
+    },
+    {
+        "support": 122,
+        "max_items": 7250,
+        "min_items": 98,
+        "num_items": 40,
+        "num_transactions": 200000
+    },
+    {
+        "support": 92,
+        "max_items": 6000,
+        "min_items": 734,
+        "num_items": 45,
+        "num_transactions": 400000
+    },
+    {
+        "support": 122,
+        "max_items": 8250,
+        "min_items": 690,
+        "num_items": 60,
+        "num_transactions": 1600000
+    },
+    {
+        "support": 137,
+        "max_items": 6000,
+        "min_items": 586,
+        "num_items": 45,
+        "num_transactions": 450000
+    },
+    {
+        "support": 17,
+        "max_items": 8250,
+        "min_items": 602,
+        "num_items": 35,
+        "num_transactions": 850000
+    },
+    {
+        "support": 2,
+        "max_items": 7250,
+        "min_items": 242,
+        "num_items": 40,
+        "num_transactions": 800000
+    },
+    {
+        "support": 137,
+        "max_items": 9500,
+        "min_items": 546,
+        "num_items": 65,
+        "num_transactions": 450000
+    },
+    {
+        "support": 167,
+        "max_items": 8500,
+        "min_items": 538,
+        "num_items": 40,
+        "num_transactions": 600000
+    },
+    {
+        "support": 197,
+        "max_items": 6250,
+        "min_items": 706,
+        "num_items": 35,
+        "num_transactions": 850000
+    },
+    {
+        "support": 197,
+        "max_items": 7250,
+        "min_items": 986,
+        "num_items": 60,
+        "num_transactions": 1850000
+    },
+    {
+        "support": 92,
+        "max_items": 7750,
+        "min_items": 854,
+        "num_items": 65,
+        "num_transactions": 500000
+    },
+    {
+        "support": 17,
+        "max_items": 9000,
+        "min_items": 930,
+        "num_items": 35,
+        "num_transactions": 300000
+    },
+    {
+        "support": 32,
+        "max_items": 6250,
+        "min_items": 78,
+        "num_items": 65,
+        "num_transactions": 1800000
+    },
+    {
+        "support": 17,
+        "max_items": 8250,
+        "min_items": 622,
+        "num_items": 30,
+        "num_transactions": 450000
+    },
+    {
+        "support": 92,
+        "max_items": 7750,
+        "min_items": 462,
+        "num_items": 45,
+        "num_transactions": 1150000
+    },
+    {
+        "support": 17,
+        "max_items": 6000,
+        "min_items": 934,
+        "num_items": 45,
+        "num_transactions": 1950000
+    },
+    {
+        "support": 62,
+        "max_items": 7000,
+        "min_items": 334,
+        "num_items": 35,
+        "num_transactions": 700000
+    },
+    {
+        "support": 2,
+        "max_items": 8750,
+        "min_items": 362,
+        "num_items": 45,
+        "num_transactions": 950000
+    },
+    {
+        "support": 197,
+        "max_items": 7000,
+        "min_items": 134,
+        "num_items": 30,
+        "num_transactions": 450000
+    },
+    {
+        "support": 92,
+        "max_items": 9000,
+        "min_items": 286,
+        "num_items": 45,
+        "num_transactions": 1000000
+    },
+    {
+        "support": 167,
+        "max_items": 6500,
+        "min_items": 110,
+        "num_items": 35,
+        "num_transactions": 750000
+    },
+    {
+        "support": 62,
+        "max_items": 6000,
+        "min_items": 962,
+        "num_items": 60,
+        "num_transactions": 2000000
+    },
+    {
+        "support": 62,
+        "max_items": 7000,
+        "min_items": 126,
+        "num_items": 35,
+        "num_transactions": 950000
+    },
+    {
+        "support": 17,
+        "max_items": 9750,
+        "min_items": 198,
+        "num_items": 30,
+        "num_transactions": 500000
+    },
+    {
+        "support": 107,
+        "max_items": 9250,
+        "min_items": 214,
+        "num_items": 40,
+        "num_transactions": 1250000
+    },
+    {
+        "support": 137,
+        "max_items": 6000,
+        "min_items": 34,
+        "num_items": 50,
+        "num_transactions": 600000
+    },
+    {
+        "support": 62,
+        "max_items": 9250,
+        "min_items": 838,
+        "num_items": 40,
+        "num_transactions": 1100000
+    },
+    {
+        "support": 197,
+        "max_items": 9750,
+        "min_items": 446,
+        "num_items": 55,
+        "num_transactions": 1000000
+    },
+    {
+        "support": 62,
+        "max_items": 9250,
+        "min_items": 398,
+        "num_items": 65,
+        "num_transactions": 2000000
+    },
+    {
+        "support": 167,
+        "max_items": 7000,
+        "min_items": 466,
+        "num_items": 50,
+        "num_transactions": 800000
+    },
+    {
+        "support": 47,
+        "max_items": 6750,
+        "min_items": 86,
+        "num_items": 45,
+        "num_transactions": 400000
+    },
+    {
+        "support": 92,
+        "max_items": 6500,
+        "min_items": 122,
+        "num_items": 45,
+        "num_transactions": 500000
+    },
+    {
+        "support": 107,
+        "max_items": 9250,
+        "min_items": 730,
+        "num_items": 65,
+        "num_transactions": 1500000
+    },
+    {
+        "support": 92,
+        "max_items": 6500,
+        "min_items": 774,
+        "num_items": 35,
+        "num_transactions": 300000
+    },
+    {
+        "support": 2,
+        "max_items": 7500,
+        "min_items": 254,
+        "num_items": 35,
+        "num_transactions": 1000000
+    },
+    {
+        "support": 92,
+        "max_items": 8000,
+        "min_items": 670,
+        "num_items": 35,
+        "num_transactions": 400000
+    },
+    {
+        "support": 122,
+        "max_items": 8500,
+        "min_items": 682,
+        "num_items": 65,
+        "num_transactions": 400000
+    },
+    {
+        "support": 122,
+        "max_items": 8000,
+        "min_items": 406,
+        "num_items": 45,
+        "num_transactions": 650000
+    },
+    {
+        "support": 2,
+        "max_items": 6500,
+        "min_items": 566,
+        "num_items": 40,
+        "num_transactions": 850000
+    },
+    {
+        "support": 32,
+        "max_items": 9500,
+        "min_items": 486,
+        "num_items": 55,
+        "num_transactions": 1650000
+    },
+    {
+        "support": 47,
+        "max_items": 6250,
+        "min_items": 594,
+        "num_items": 50,
+        "num_transactions": 650000
+    },
+    {
+        "support": 92,
+        "max_items": 7750,
+        "min_items": 590,
+        "num_items": 45,
+        "num_transactions": 400000
+    },
+    {
+        "support": 17,
+        "max_items": 8000,
+        "min_items": 682,
+        "num_items": 45,
+        "num_transactions": 300000
+    },
+    {
+        "support": 197,
+        "max_items": 8750,
+        "min_items": 38,
+        "num_items": 55,
+        "num_transactions": 500000
+    },
+    {
+        "support": 122,
+        "max_items": 9500,
+        "min_items": 318,
+        "num_items": 35,
+        "num_transactions": 550000
+    },
+    {
+        "support": 167,
+        "max_items": 7000,
+        "min_items": 102,
+        "num_items": 55,
+        "num_transactions": 1950000
+    },
+    {
+        "support": 47,
+        "max_items": 6000,
+        "min_items": 694,
+        "num_items": 40,
+        "num_transactions": 400000
+    },
+    {
+        "support": 2,
+        "max_items": 8750,
+        "min_items": 886,
+        "num_items": 50,
+        "num_transactions": 1750000
+    },
+    {
+        "support": 47,
+        "max_items": 9750,
+        "min_items": 142,
+        "num_items": 40,
+        "num_transactions": 700000
+    },
+    {
+        "support": 197,
+        "max_items": 7250,
+        "min_items": 118,
+        "num_items": 50,
+        "num_transactions": 1500000
+    },
+    {
+        "support": 137,
+        "max_items": 9000,
+        "min_items": 178,
+        "num_items": 45,
+        "num_transactions": 1000000
+    },
+    {
+        "support": 17,
+        "max_items": 6000,
+        "min_items": 298,
+        "num_items": 35,
+        "num_transactions": 450000
+    },
+    {
+        "support": 167,
+        "max_items": 8500,
+        "min_items": 18,
+        "num_items": 60,
+        "num_transactions": 1200000
+    },
+    {
+        "support": 17,
+        "max_items": 6250,
+        "min_items": 42,
+        "num_items": 65,
+        "num_transactions": 1850000
+    },
+    {
+        "support": 17,
+        "max_items": 6750,
+        "min_items": 90,
+        "num_items": 35,
+        "num_transactions": 450000
+    },
+    {
+        "support": 122,
+        "max_items": 6750,
+        "min_items": 742,
+        "num_items": 30,
+        "num_transactions": 200000
+    },
+    {
+        "support": 32,
+        "max_items": 8750,
+        "min_items": 82,
+        "num_items": 40,
+        "num_transactions": 600000
+    }
+]
