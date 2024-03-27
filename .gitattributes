@@ -1,0 +1,2 @@
+trace-data/*.json filter=lfs diff=lfs merge=lfs -text
+perf-models/*.pkl filter=lfs diff=lfs merge=lfs -binary

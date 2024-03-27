@@ -1,0 +1,338 @@
+{
+    "631.deepsjeng_s": {
+        "low": [
+            {
+                "function": "main",
+                "calls": 1
+            },
+            {
+                "function": "myprintf",
+                "calls": 146
+            },
+            {
+                "function": "reset_piece_square",
+                "calls": 3
+            },
+            {
+                "function": "clear_tt",
+                "calls": 2
+            },
+            {
+                "function": "rtime",
+                "calls": 41
+            }
+        ],
+        "medium": [
+            {
+                "function": "in_check",
+                "calls": 237278
+            },
+            {
+                "function": "gen_captures",
+                "calls": 85569
+            },
+            {
+                "function": "gen_evasions",
+                "calls": 15756
+            },
+            {
+                "function": "check_legal",
+                "calls": 338546
+            },
+            {
+                "function": "make",
+                "calls": 339031
+            }
+        ],
+        "high": [
+            {
+                "function": "FindFirstRemove",
+                "calls": 2958551
+            },
+            {
+                "function": "add_capture",
+                "calls": 997169
+            },
+            {
+                "function": "RankAttacks",
+                "calls": 1248722
+            },
+            {
+                "function": "RookAttacks",
+                "calls": 1074364
+            },
+            {
+                "function": "FileAttacks",
+                "calls": 1297531
+            }
+        ]
+    },
+    "638.imagick_s": {
+        "low": [
+            {
+                "function": "DestroySplayTree",
+                "calls": 28
+            },
+            {
+                "function": "MorphologyPrimitive",
+                "calls": 4
+            },
+            {
+                "function": "main",
+                "calls": 1
+            },
+            {
+                "function": "GetEnvironmentValue",
+                "calls": 34
+            },
+            {
+                "function": "AcquireResizeFilter",
+                "calls": 9
+            }
+        ],
+        "medium": [
+            {
+                "function": "FormatMagickSize",
+                "calls": 99
+            },
+            {
+                "function": "GetImageArtifact",
+                "calls": 95
+            },
+            {
+                "function": "InterpretLocaleValue",
+                "calls": 73
+            },
+            {
+                "function": "SyncAuthenticPixelCacheNexus",
+                "calls": 5387
+            },
+            {
+                "function": "NewLinkedList",
+                "calls": 52
+            }
+        ],
+        "high": [
+            {
+                "function": "SetPixelCacheNexusPixels",
+                "calls": 1160987
+            },
+            {
+                "function": "ResamplePixelColor",
+                "calls": 290050
+            },
+            {
+                "function": "GetCacheViewVirtualIndexQueue",
+                "calls": 826532
+            },
+            {
+                "function": "CubicBC",
+                "calls": 11000
+            },
+            {
+                "function": "GetCacheViewVirtualPixels",
+                "calls": 826533
+            }
+        ]
+    },
+    "su2_cfd": {
+        "low": [
+            {
+                "function": "CConfig::addEnumListOption",
+                "calls": 33
+            },
+            {
+                "function": "CSolverFactory::CreateSolverContainer",
+                "calls": 4
+            },
+            {
+                "function": "CSinglezoneDriver::StartSolver",
+                "calls": 1
+            },
+            {
+                "function": "CPhysicalGeometry::CompleteCommsAll",
+                "calls": 34
+            },
+            {
+                "function": "CSolverFactory::CreateSubSolver",
+                "calls": 12
+            }
+        ],
+        "medium": [
+            {
+                "function": "CConfig::addDoubleListOption",
+                "calls": 126
+            },
+            {
+                "function": "CConfig::addDoubleArrayOption",
+                "calls": 114
+            },
+            {
+                "function": "CEulerSolver::SetReferenceValues",
+                "calls": 72
+            },
+            {
+                "function": "CConfig::GetViscous_Wall",
+                "calls": 6070
+            },
+            {
+                "function": "CConfig::GetSolid_Wall",
+                "calls": 1142
+            }
+        ],
+        "high": [
+            {
+                "function": "CUpwRoe_Flow::FinalizeResidual",
+                "calls": 241133
+            },
+            {
+                "function": "CNumerics::GetInviscidProjFlux",
+                "calls": 482266
+            },
+            {
+                "function": "CLinearPartitioner::GetRankContainingIndex",
+                "calls": 146424
+            },
+            {
+                "function": "CSolver::GetCommCountAndType",
+                "calls": 14376
+            },
+            {
+                "function": "CMultiGridQueue::RemoveCV",
+                "calls": 32007
+            }
+        ]
+    },
+    "freqmine": {
+        "low": [
+            {
+                "function": "main",
+                "calls": 1
+            },
+            {
+                "function": "wtime",
+                "calls": 8
+            },
+            {
+                "function": "FP_tree::scan2_DB",
+                "calls": 8
+            },
+            {
+                "function": "memory::switchbuf",
+                "calls": 15
+            },
+            {
+                "function": "FP_tree::scan1_DB",
+                "calls": 8
+            }
+        ],
+        "medium": [
+            {
+                "function": "MapFileNode::finalize",
+                "calls": 76
+            },
+            {
+                "function": "memory::bufmark",
+                "calls": 7151
+            },
+            {
+                "function": "memory::init",
+                "calls": 18
+            },
+            {
+                "function": "memory::freebuf",
+                "calls": 4713
+            },
+            {
+                "function": "FP_tree::release_node_array_after_mining",
+                "calls": 7000
+            }
+        ],
+        "high": [
+            {
+                "function": "inssort",
+                "calls": 9274
+            },
+            {
+                "function": "partition",
+                "calls": 9287
+            },
+            {
+                "function": "sort",
+                "calls": 9281
+            },
+            {
+                "function": "memory::newbuf",
+                "calls": 787090
+            }
+        ]
+    },
+    "657.xz_s": {
+        "low": [
+            {
+                "function": "lzma_next_end",
+                "calls": 7
+            },
+            {
+                "function": "main",
+                "calls": 1
+            },
+            {
+                "function": "stream_flags_decode",
+                "calls": 2
+            },
+            {
+                "function": "lzma_check_init",
+                "calls": 3
+            },
+            {
+                "function": "lzma_sha256_update",
+                "calls": 2
+            }
+        ],
+        "medium": [
+            {
+                "function": "block_decode",
+                "calls": 192
+            },
+            {
+                "function": "store64",
+                "calls": 18
+            },
+            {
+                "function": "update_size",
+                "calls": 385
+            },
+            {
+                "function": "lzma_free",
+                "calls": 13
+            },
+            {
+                "function": "lzma2_decode",
+                "calls": 193
+            }
+        ],
+        "high": [
+            {
+                "function": "sha_compress",
+                "calls": 26305
+            },
+            {
+                "function": "Gamma0",
+                "calls": 1683584
+            },
+            {
+                "function": "load64",
+                "calls": 420896
+            },
+            {
+                "function": "Sh",
+                "calls": 3367168
+            },
+            {
+                "function": "Sigma0",
+                "calls": 2104480
+            }
+        ]
+    }
+}

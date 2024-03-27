@@ -1,0 +1,41 @@
+{
+    "631.deepsjeng_s": {
+        "const_delay": {
+            "low": 100,
+            "medium": 5,
+            "high": 1
+        }
+    },
+
+    "638.imagick_s": {
+        "const_delay": {
+            "low": 100,
+            "medium": 100,
+            "high": 100
+        }
+    },
+
+    "su2_cfd": {
+        "const_delay": {
+            "low": 100,
+            "medium": 50,
+            "high": 5
+        }
+    },
+
+    "freqmine": {
+        "const_delay": {
+            "low": 5000,
+            "medium": 1000,
+            "high": 100
+        }
+    },
+
+    "657.xz_s": {
+        "const_delay": {
+            "low": 5000,
+            "medium": 750,
+            "high": 5
+        }
+    }
+}
