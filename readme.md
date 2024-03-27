@@ -3,11 +3,11 @@
 **Description**: This repository contains the replication package for the paper "Tracing Optimization for Performance Modeling and Regression Detection" submitted to the ICSE '25 conference.
 
 ## Introduction
-The overall o indent=4verview of the methodology is illustrated in the following figure:
+The overall overview of the methodology is illustrated in the following figure:
 ![Methodology](res/Methodology.png)
 
 ### Application Scenario
-Our approach primarily targets performance modeling and regression detection in continuous integration or production environments. In continuous integration, full tracing with higher overhead occurs less frequently (e.g., only once for each release) for identifying performance-sensitive functions. Subsequently, optimized tracing with lower overhead is performed more frequently (e.g., for each commit) to build performance models and detect regressions. The low-overhead optimized tracing can also be applied in production to identify regressions under real-world field workloads; the performance-sensitive functions used in the performance models are determined in a testing environment.
+Our approach primarily focuses on performance modeling and regression detection within continuous integration or production environments. In continuous integration settings, full tracing with higher overhead occurs less frequently (i.e., for proposed dynamic approaches), typically once for each release, to identify performance-sensitive functions. In contrast to dynamic approaches, the static method can be used without introducing any extra overhead (i.e., skipping the previous step). Followingly, after determining performance-sensitive functions through either dynamic or static approaches, optimized tracing with lower overhead is performed more frequently, often for each commit, to construct performance models and detect regressions. The optimized tracing can be applied in production settings to identify regressions under real-world field workloads due to its minimal overhead.
 
 ## Methodology
 This section provides a brief overview of the methodology. For more details, please refer to the paper.
@@ -19,7 +19,7 @@ This section provides a brief overview of the methodology. For more details, ple
 - **Step 2b: Automatically Finding the Threshold for the Rank-Based Metrics**: *Shannon's entropy*, *CoV*, and *StaPerfSens* pruning methods tend to rank the functions, and accordingly, after measuring them, we have three sets of functions that are sorted based on their *entropy*, *CoV*, or *StaPerfSens*. In order to cluster them into two groups (i.e., *performance-sensitive* and *performance-insensitive*), we use an automated approach to find a statistical threshold to separate them (i.e., using *Ckmeans.1d.dp algorithm*, a one-dimensional clustering method). 
 We employ a two-dimensional representation to depict the sorted functions, where the Y values represent the function's metrics (e.g., *entropy*, *CoV*, or *StaPerfSens*), and the X values correspond to the function's indexes in the sorted list (a numeric array). Next, the Y values are smoothed using the *loess* function, and the first derivative of the Y values with respect to the X values is calculated. We use the first derivative to capture the trend of the Y values: a threshold can be made at the point where the decrease of the Y values starts to slow down significantly (i.e., where the absolute value of the first derivative becomes significantly smaller). Smoothing ensures the stability of the derivative values. Subsequently, we use the *Ckmeans.1d.dp algorithm*, a one-dimensional clustering method, to identify a breakpoint separating the derivatives into two clusters. These groups categorize the functions as either performance-sensitive or performance-insensitive. 
 
-- **Step 3: Performance Modeling**: We build performance models using the optimized trace data. We employ the [*PyCaret*](https://github.com/pycaret/pycaret) library to train, tune, and evaluate the models. Also, for model evaluation, we use the *$R^2$* score (the primary metric for model comparisons), *Mean Absolute Error (MAE)*, and *Root Mean Squared Error (RMSE)*.
+- **Step 3: Performance Modeling**: We build performance models using the optimized trace data. We employ the [*PyCaret*](https://github.com/pycaret/pycaret) library to train, tune, and evaluate the models. Also, for model evaluation, we use the *R<sup>2</sup>* score (the primary metric for model comparisons), *Mean Absolute Error (MAE)*, and *Root Mean Squared Error (RMSE)*.
 
 - **Step 4: Performance Regression Detection**: We evaluate the effectiveness of the performance models in detecting performance regressions. We inject performance regressions into the programs and collect trace data for each input. We then use the performance models to predict the execution time of the programs and compare the errors of predicted values with the actual ones. We employ *Mann-Whitney U test* to determine the statistical significance of the performance regression detection, and *Cliff's Delta Effect Size* to measure the effect size.
 
@@ -37,7 +37,7 @@ The scripts for injecting performance regressions into the programs. More detail
 Contains the trace data collected for each program. For each program we have:
 - **vanilla**: Only the baseline information about the program's execution time for each input. It doesn't involve any tracing.
 - **analysis**: The trace data which has been captured with full tracing enabled. It consist of 2500 executions (i.e., for each input).
-- **optimized**: The trace data after applying the pruning algorithms. There are 333 executions (i.e., for each input) for each pruning method (i.e., entropy, cv, etc.).
+- **optimized**: The trace data after applying the pruning algorithms. There are 333 executions (i.e., for each input) for each pruning method (i.e., entropy, CoV, etc.).
 - **regression**: Same as optimized, the collected trace data for each input and each pruning method. However, a performance regression was injected for each input.
 
 You can find the trace data for each program in the [trace-data](trace-data/) directory.
