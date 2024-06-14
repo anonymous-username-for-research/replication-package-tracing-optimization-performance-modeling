@@ -50,10 +50,25 @@ The scripts for running the programs and collecting the trace data. More informa
 <br>
 **The scripts don't work without having the program's source code (e.g., SPEC CPU 2017)**
 
-## Dependencies
-We used Python 3.10 to run the scripts and the Jupyter notebook. The required libraries in order to run all of the files are provided in the `requirements.txt` file. You can install them using the following command:
+## Installing and Running the Scripts
+We used Python 3.10 to run the scripts and the Jupyter notebook. The required libraries in order to run all of the files are provided in the `requirements.txt` file.
+
+In order to install the required libraries, you may need to create a virtual environment in order to avoid conflicts with the existing libraries. You can create a virtual environment using the following command:
 ```bash
-pip install -r requirements.txt
+python3 -m venv venv
+```
+
+Then, you can activate the virtual environment:
+```bash
+source venv/bin/activate # For Linux
+OR
+venv\Scripts\activate # For Windows
+```
+
+After activating the virtual environment, you can install the required libraries using the following command:
+
+```bash
+pip3 install -r requirements.txt
 ```
 
 Also, you need to have the following libraries installed:
